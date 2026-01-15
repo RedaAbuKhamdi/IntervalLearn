@@ -34,7 +34,7 @@
             android:backgroundTint="@color/orange"
             android:textColor="@color/white"
             android:textSize="8pt"
-            android:text="@string/main_create"/>
+            android:text="@string/main_cards"/>
 
         <Button
             android:layout_width="200dp"

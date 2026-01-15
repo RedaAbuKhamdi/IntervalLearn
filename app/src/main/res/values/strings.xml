@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Intervallearn</string>
-    <string name="main_create">Create a card</string>
+    <string name="main_cards">My cards</string>
     <string name="main_start">Start a session</string>
     <string name="welcome_title">Welcome to IntervalLearn!</string>
 </resources>
